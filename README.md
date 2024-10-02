@@ -13,3 +13,6 @@ job done for the next 1.5 years and it reduced the time and complexity of Cisco 
 selected to work with the DNAC BU for a feature that later became DNAC SWIM (Software Image Mgmt).  
 
 All thanks to this early project.
+
+## Note about Sanitization:
+This is a sanitized version of my original project.  Unfortunately, due to sanitization, the project no longer functions as expected.
